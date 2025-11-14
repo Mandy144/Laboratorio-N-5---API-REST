@@ -150,14 +150,10 @@ para que su código PHP funcione
 
 ## 👨‍🏫 Autor
 
-**Irina Fong**  
-Docente de Programación  
-Desarrollo Web - Ingeniería Web
+**Amanda Green y Eimy Félix**  
+Estudiantes 
+Ingenieria de software - Ingeniería Web
 Universidad Tecnológica de Panamá  
-
-📧 **Email:** irina.fong@utp.ac.pa  
-📧 **Email:** irinafong@gmail.com<br>
-🌐 **GitHub:**(https://github.com/Salomon2514)  
 
 <br>
 
