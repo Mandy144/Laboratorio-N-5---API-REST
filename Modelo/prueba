@@ -1,0 +1,8 @@
+{
+  "codigo": "AO1405",
+  "producto": "Impresora Multifuncional  HP",
+  "precio": 400,
+  "cantidad": 5
+}
+
+<script>alert("Hola mundo")</script>
