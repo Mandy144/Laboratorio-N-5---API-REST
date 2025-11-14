@@ -70,7 +70,7 @@ a los puntos finales de API para acceder a sus funciones y datos.<br>
 <br><br> 
 
 ## 🌐 Métodos HTTP
- API-REST-Productos [http://127.0.0.1/ApiRestFull/]  ✨ GET, POST, PUT, DELETE
+ API-REST-Productos [http://127.0.0.1/Laboratorio N°5-API-REST/]  ✨ GET, POST, PUT, DELETE
 
 *  GET 👁️ /productos - Obtiene la lista de todos los productos.
 
@@ -110,14 +110,14 @@ para que su código PHP funcione
      
 ## 🛣️ Rutas (Endpoints) 
 
-* **[GET]** `http://127.1.1.1/ApiRestFull` ➡️  Lista todos los productos.
-* **[POST]** `http://127.1.1.1/ApiRestFull` ➡️  Crea un nuevo producto. (Requiere JSON Body)
+* **[GET]** `http://127.1.1.1/Laboratorio N°5-API-REST` ➡️  Lista todos los productos.
+* **[POST]** `http://127.1.1.1/Laboratorio N°5-API-REST` ➡️  Crea un nuevo producto. (Requiere JSON Body)
 
 <br><br>
 
 ## 💻 Configurar una Dirección o endpoint válido en Postman 
 
-### ❌🌐Dirección IP Inválida [http://127.0.0.0/ApiRestFull/]
+### ❌🌐Dirección IP Inválida [http://127.0.0.0/Laboratorio N°5-API-REST/]
 
 * ❌ 127.0.0.0: Esta es la dirección de red (la base de la subred de loopback) y, en la práctica, no es una dirección
      válida para un host (un dispositivo) para enviar peticiones HTTP. El sistema operativo y el software de red
